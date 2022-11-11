@@ -2,10 +2,10 @@
 
 The solution to the products page semantics review project.
 
-### [☛ See the project](https://github.com/acgd-summer-reviews/product-page-semantics)
+### [☛ See the project](https://github.com/ltw-summer-reviews/product-page-semantics)
 
 ---
 
 ## Licenses & copyrights
 
-**[☛ Refer the the license & copyright statement](https://github.com/acgd-summer-reviews/meta#license--copyright-statement)**
+**[☛ Refer the the license & copyright statement](https://github.com/ltw-summer-reviews/meta#license--copyright-statement)**
